@@ -19,11 +19,13 @@ ________________________________________________
 1 m Wire Wrap 1 x 0.01 mm² yellow
 
 
-Electronic Head PCB
+Electronic Head PCB (Gerberfile Head PCB zip)
 ________________________________________________
 1 x LED driver BCR 402 R (SMD)
 1 x BC 817-40 SMD 
 1 x SMD LED 603 white (recommend warm white)
+1 x 100 kOhm 603 SMD Resistor
+1 x 8 kOhm 603 SMD Resistor
 
 Electronic Charging
 
