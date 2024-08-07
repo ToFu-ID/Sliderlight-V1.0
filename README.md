@@ -1,5 +1,9 @@
 <p># Sliderlight-V1.0</p>
 <p><img src="https://github.com/ToFu-ID/Sliderlight-V1.0/blob/main/Explosionszeichnung.png"></p>
+
+<figure class="image image_resized" style="width:33.05%;"><img style="aspect-ratio:320/240;" src="https://raw.githubusercontent.com/ToFu-ID/Sliderlight-V1.0/main/Fully%20assembled.jpeg?token=GHSAT0AAAAAACVVRID5KQ5H4SGNPAK3TCCUZVTQ72A" width="320" height="240"></figure>
+
+
 <p><br>---</p>
 <p>ID.3, ID.4, ID.5, and many other vehicles from the VW Group lack slider illumination. With this upgrade, illumination can be retrofitted WITHOUT&nbsp;<br>modifying the vehicle's hardware. The circuit activates automatically at dusk and upon detecting movement of the car.</p>
 <p>Plug and Play without altering the car hardware. It will held in place by internal magnet.</p>
