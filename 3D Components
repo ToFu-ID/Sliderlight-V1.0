@@ -1,8 +1,11 @@
 There are 4 components to be created with a 3D printer.
 
--battery cover (ASA)
--base housing (ASA)
--illuminated head (ASA)
--Contour profile (TPU)
+-1battery_cover (ASA)
+-2base_housing (ASA)
+-3illuminated_head (ASA)
+-4Contour_profile (TPU)
+
 
 The STL files are zipped into file "3D"
+
+For printing ASA you need a enclosure and enable adhesion (brim)
